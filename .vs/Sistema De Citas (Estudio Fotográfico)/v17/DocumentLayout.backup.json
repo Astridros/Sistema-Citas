@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\ioana\\source\\repos\\Sistema De Citas (Estudio Fotogr\u00E1fico)\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E994CD90-0C8D-4D29-8B7F-142D7E30EE97}|Aplicacion\\Aplicacion.csproj|c:\\users\\ioana\\source\\repos\\sistema de citas (estudio fotogr\u00E1fico)\\aplicacion\\interfaces\\iconfiguracionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E994CD90-0C8D-4D29-8B7F-142D7E30EE97}|Aplicacion\\Aplicacion.csproj|solutionrelative:aplicacion\\interfaces\\iconfiguracionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E994CD90-0C8D-4D29-8B7F-142D7E30EE97}|Aplicacion\\Aplicacion.csproj|c:\\users\\ioana\\source\\repos\\sistema de citas (estudio fotogr\u00E1fico)\\aplicacion\\interfaces\\icitaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E994CD90-0C8D-4D29-8B7F-142D7E30EE97}|Aplicacion\\Aplicacion.csproj|solutionrelative:aplicacion\\interfaces\\icitaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E994CD90-0C8D-4D29-8B7F-142D7E30EE97}|Aplicacion\\Aplicacion.csproj|c:\\users\\ioana\\source\\repos\\sistema de citas (estudio fotogr\u00E1fico)\\aplicacion\\interfaces\\icitarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E994CD90-0C8D-4D29-8B7F-142D7E30EE97}|Aplicacion\\Aplicacion.csproj|solutionrelative:aplicacion\\interfaces\\icitarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6D7AB523-CAFD-43DD-B496-1BA5A33F41FA}|Dominio\\Dominio.csproj|c:\\users\\ioana\\source\\repos\\sistema de citas (estudio fotogr\u00E1fico)\\dominio\\entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D7AB523-CAFD-43DD-B496-1BA5A33F41FA}|Dominio\\Dominio.csproj|solutionrelative:dominio\\entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -71,10 +83,6 @@
       "RelativeMoniker": "D:0:0:{E994CD90-0C8D-4D29-8B7F-142D7E30EE97}|Aplicacion\\Aplicacion.csproj|solutionrelative:aplicacion\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E994CD90-0C8D-4D29-8B7F-142D7E30EE97}|Aplicacion\\Aplicacion.csproj|c:\\users\\ioana\\source\\repos\\sistema de citas (estudio fotogr\u00E1fico)\\aplicacion\\interfaces\\icitarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E994CD90-0C8D-4D29-8B7F-142D7E30EE97}|Aplicacion\\Aplicacion.csproj|solutionrelative:aplicacion\\interfaces\\icitarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E994CD90-0C8D-4D29-8B7F-142D7E30EE97}|Aplicacion\\Aplicacion.csproj|c:\\users\\ioana\\source\\repos\\sistema de citas (estudio fotogr\u00E1fico)\\aplicacion\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E994CD90-0C8D-4D29-8B7F-142D7E30EE97}|Aplicacion\\Aplicacion.csproj|solutionrelative:aplicacion\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -85,26 +93,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E994CD90-0C8D-4D29-8B7F-142D7E30EE97}|Aplicacion\\Aplicacion.csproj|c:\\users\\ioana\\source\\repos\\sistema de citas (estudio fotogr\u00E1fico)\\aplicacion\\interfaces\\icorreoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E994CD90-0C8D-4D29-8B7F-142D7E30EE97}|Aplicacion\\Aplicacion.csproj|solutionrelative:aplicacion\\interfaces\\icorreoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E994CD90-0C8D-4D29-8B7F-142D7E30EE97}|Aplicacion\\Aplicacion.csproj|c:\\users\\ioana\\source\\repos\\sistema de citas (estudio fotogr\u00E1fico)\\aplicacion\\interfaces\\icorreofactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E994CD90-0C8D-4D29-8B7F-142D7E30EE97}|Aplicacion\\Aplicacion.csproj|solutionrelative:aplicacion\\interfaces\\icorreofactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E994CD90-0C8D-4D29-8B7F-142D7E30EE97}|Aplicacion\\Aplicacion.csproj|c:\\users\\ioana\\source\\repos\\sistema de citas (estudio fotogr\u00E1fico)\\aplicacion\\interfaces\\iconfiguracionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E994CD90-0C8D-4D29-8B7F-142D7E30EE97}|Aplicacion\\Aplicacion.csproj|solutionrelative:aplicacion\\interfaces\\iconfiguracionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E994CD90-0C8D-4D29-8B7F-142D7E30EE97}|Aplicacion\\Aplicacion.csproj|c:\\users\\ioana\\source\\repos\\sistema de citas (estudio fotogr\u00E1fico)\\aplicacion\\interfaces\\icitaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E994CD90-0C8D-4D29-8B7F-142D7E30EE97}|Aplicacion\\Aplicacion.csproj|solutionrelative:aplicacion\\interfaces\\icitaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E994CD90-0C8D-4D29-8B7F-142D7E30EE97}|Aplicacion\\Aplicacion.csproj|c:\\users\\ioana\\source\\repos\\sistema de citas (estudio fotogr\u00E1fico)\\aplicacion\\strategies\\correosmtp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E994CD90-0C8D-4D29-8B7F-142D7E30EE97}|Aplicacion\\Aplicacion.csproj|solutionrelative:aplicacion\\strategies\\correosmtp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E994CD90-0C8D-4D29-8B7F-142D7E30EE97}|Aplicacion\\Aplicacion.csproj|c:\\users\\ioana\\source\\repos\\sistema de citas (estudio fotogr\u00E1fico)\\aplicacion\\strategies\\correomock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E994CD90-0C8D-4D29-8B7F-142D7E30EE97}|Aplicacion\\Aplicacion.csproj|solutionrelative:aplicacion\\strategies\\correomock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E994CD90-0C8D-4D29-8B7F-142D7E30EE97}|Aplicacion\\Aplicacion.csproj|c:\\users\\ioana\\source\\repos\\sistema de citas (estudio fotogr\u00E1fico)\\aplicacion\\services\\slotgenerador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -121,10 +109,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E994CD90-0C8D-4D29-8B7F-142D7E30EE97}|Aplicacion\\Aplicacion.csproj|c:\\users\\ioana\\source\\repos\\sistema de citas (estudio fotogr\u00E1fico)\\aplicacion\\logger\\loggersingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E994CD90-0C8D-4D29-8B7F-142D7E30EE97}|Aplicacion\\Aplicacion.csproj|solutionrelative:aplicacion\\logger\\loggersingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E994CD90-0C8D-4D29-8B7F-142D7E30EE97}|Aplicacion\\Aplicacion.csproj|c:\\users\\ioana\\source\\repos\\sistema de citas (estudio fotogr\u00E1fico)\\aplicacion\\factories\\correofactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E994CD90-0C8D-4D29-8B7F-142D7E30EE97}|Aplicacion\\Aplicacion.csproj|solutionrelative:aplicacion\\factories\\correofactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -134,37 +118,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Estacion.cs",
-              "DocumentMoniker": "C:\\Users\\ioana\\source\\repos\\Sistema De Citas (Estudio Fotogr\u00E1fico)\\Dominio\\Entidades\\Estacion.cs",
-              "RelativeDocumentMoniker": "Dominio\\Entidades\\Estacion.cs",
-              "ToolTip": "C:\\Users\\ioana\\source\\repos\\Sistema De Citas (Estudio Fotogr\u00E1fico)\\Dominio\\Entidades\\Estacion.cs",
-              "RelativeToolTip": "Dominio\\Entidades\\Estacion.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-08T21:38:44.939Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Slot.cs",
-              "DocumentMoniker": "C:\\Users\\ioana\\source\\repos\\Sistema De Citas (Estudio Fotogr\u00E1fico)\\Dominio\\Entidades\\Slot.cs",
-              "RelativeDocumentMoniker": "Dominio\\Entidades\\Slot.cs",
-              "ToolTip": "C:\\Users\\ioana\\source\\repos\\Sistema De Citas (Estudio Fotogr\u00E1fico)\\Dominio\\Entidades\\Slot.cs",
-              "RelativeToolTip": "Dominio\\Entidades\\Slot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-08T21:38:55.236Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Users\\ioana\\source\\repos\\Sistema De Citas (Estudio Fotogr\u00E1fico)\\Dominio\\Entidades\\Usuario.cs",
               "RelativeDocumentMoniker": "Dominio\\Entidades\\Usuario.cs",
@@ -177,7 +135,98 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
+              "Title": "ReservaCitaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ioana\\source\\repos\\Sistema De Citas (Estudio Fotogr\u00E1fico)\\Aplicacion\\DTOs\\ReservaCitaDTO.cs",
+              "RelativeDocumentMoniker": "Aplicacion\\DTOs\\ReservaCitaDTO.cs",
+              "ToolTip": "C:\\Users\\ioana\\source\\repos\\Sistema De Citas (Estudio Fotogr\u00E1fico)\\Aplicacion\\DTOs\\ReservaCitaDTO.cs",
+              "RelativeToolTip": "Aplicacion\\DTOs\\ReservaCitaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T22:02:00.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ConfiguracionDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ioana\\source\\repos\\Sistema De Citas (Estudio Fotogr\u00E1fico)\\Aplicacion\\DTOs\\ConfiguracionDTO.cs",
+              "RelativeDocumentMoniker": "Aplicacion\\DTOs\\ConfiguracionDTO.cs",
+              "ToolTip": "C:\\Users\\ioana\\source\\repos\\Sistema De Citas (Estudio Fotogr\u00E1fico)\\Aplicacion\\DTOs\\ConfiguracionDTO.cs",
+              "RelativeToolTip": "Aplicacion\\DTOs\\ConfiguracionDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T22:01:43.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICitaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ioana\\source\\repos\\Sistema De Citas (Estudio Fotogr\u00E1fico)\\Aplicacion\\Interfaces\\ICitaRepository.cs",
+              "RelativeDocumentMoniker": "Aplicacion\\Interfaces\\ICitaRepository.cs",
+              "ToolTip": "C:\\Users\\ioana\\source\\repos\\Sistema De Citas (Estudio Fotogr\u00E1fico)\\Aplicacion\\Interfaces\\ICitaRepository.cs",
+              "RelativeToolTip": "Aplicacion\\Interfaces\\ICitaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T21:35:30.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICitaServices.cs",
+              "DocumentMoniker": "C:\\Users\\ioana\\source\\repos\\Sistema De Citas (Estudio Fotogr\u00E1fico)\\Aplicacion\\Interfaces\\ICitaServices.cs",
+              "RelativeDocumentMoniker": "Aplicacion\\Interfaces\\ICitaServices.cs",
+              "ToolTip": "C:\\Users\\ioana\\source\\repos\\Sistema De Citas (Estudio Fotogr\u00E1fico)\\Aplicacion\\Interfaces\\ICitaServices.cs",
+              "RelativeToolTip": "Aplicacion\\Interfaces\\ICitaServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T21:28:31.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IConfiguracionService.cs",
+              "DocumentMoniker": "C:\\Users\\ioana\\source\\repos\\Sistema De Citas (Estudio Fotogr\u00E1fico)\\Aplicacion\\Interfaces\\IConfiguracionService.cs",
+              "RelativeDocumentMoniker": "Aplicacion\\Interfaces\\IConfiguracionService.cs",
+              "ToolTip": "C:\\Users\\ioana\\source\\repos\\Sistema De Citas (Estudio Fotogr\u00E1fico)\\Aplicacion\\Interfaces\\IConfiguracionService.cs",
+              "RelativeToolTip": "Aplicacion\\Interfaces\\IConfiguracionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T21:33:20.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SlotDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ioana\\source\\repos\\Sistema De Citas (Estudio Fotogr\u00E1fico)\\Aplicacion\\DTOs\\SlotDTO.cs",
+              "RelativeDocumentMoniker": "Aplicacion\\DTOs\\SlotDTO.cs",
+              "ToolTip": "C:\\Users\\ioana\\source\\repos\\Sistema De Citas (Estudio Fotogr\u00E1fico)\\Aplicacion\\DTOs\\SlotDTO.cs",
+              "RelativeToolTip": "Aplicacion\\DTOs\\SlotDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T22:02:16.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cita.cs",
+              "DocumentMoniker": "C:\\Users\\ioana\\source\\repos\\Sistema De Citas (Estudio Fotogr\u00E1fico)\\Dominio\\Entidades\\Cita.cs",
+              "RelativeDocumentMoniker": "Dominio\\Entidades\\Cita.cs",
+              "ToolTip": "C:\\Users\\ioana\\source\\repos\\Sistema De Citas (Estudio Fotogr\u00E1fico)\\Dominio\\Entidades\\Cita.cs",
+              "RelativeToolTip": "Dominio\\Entidades\\Cita.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T21:38:21.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Configuracion.cs",
               "DocumentMoniker": "C:\\Users\\ioana\\source\\repos\\Sistema De Citas (Estudio Fotogr\u00E1fico)\\Dominio\\Entidades\\Configuracion.cs",
               "RelativeDocumentMoniker": "Dominio\\Entidades\\Configuracion.cs",
@@ -191,58 +240,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Cita.cs",
-              "DocumentMoniker": "C:\\Users\\ioana\\source\\repos\\Sistema De Citas (Estudio Fotogr\u00E1fico)\\Dominio\\Entidades\\Cita.cs",
-              "RelativeDocumentMoniker": "Dominio\\Entidades\\Cita.cs",
-              "ToolTip": "C:\\Users\\ioana\\source\\repos\\Sistema De Citas (Estudio Fotogr\u00E1fico)\\Dominio\\Entidades\\Cita.cs",
-              "RelativeToolTip": "Dominio\\Entidades\\Cita.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA0AAAAAAAAAA==",
+              "Title": "Slot.cs",
+              "DocumentMoniker": "C:\\Users\\ioana\\source\\repos\\Sistema De Citas (Estudio Fotogr\u00E1fico)\\Dominio\\Entidades\\Slot.cs",
+              "RelativeDocumentMoniker": "Dominio\\Entidades\\Slot.cs",
+              "ToolTip": "C:\\Users\\ioana\\source\\repos\\Sistema De Citas (Estudio Fotogr\u00E1fico)\\Dominio\\Entidades\\Slot.cs",
+              "RelativeToolTip": "Dominio\\Entidades\\Slot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-08T21:38:21.656Z",
+              "WhenOpened": "2025-08-08T21:38:55.236Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "SlotDTO.cs",
-              "DocumentMoniker": "C:\\Users\\ioana\\source\\repos\\Sistema De Citas (Estudio Fotogr\u00E1fico)\\Aplicacion\\DTOs\\SlotDTO.cs",
-              "RelativeDocumentMoniker": "Aplicacion\\DTOs\\SlotDTO.cs",
-              "ToolTip": "C:\\Users\\ioana\\source\\repos\\Sistema De Citas (Estudio Fotogr\u00E1fico)\\Aplicacion\\DTOs\\SlotDTO.cs",
-              "RelativeToolTip": "Aplicacion\\DTOs\\SlotDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Estacion.cs",
+              "DocumentMoniker": "C:\\Users\\ioana\\source\\repos\\Sistema De Citas (Estudio Fotogr\u00E1fico)\\Dominio\\Entidades\\Estacion.cs",
+              "RelativeDocumentMoniker": "Dominio\\Entidades\\Estacion.cs",
+              "ToolTip": "C:\\Users\\ioana\\source\\repos\\Sistema De Citas (Estudio Fotogr\u00E1fico)\\Dominio\\Entidades\\Estacion.cs",
+              "RelativeToolTip": "Dominio\\Entidades\\Estacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBIAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-08T22:02:16.511Z",
+              "WhenOpened": "2025-08-08T21:38:44.939Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ReservaCitaDTO.cs",
-              "DocumentMoniker": "C:\\Users\\ioana\\source\\repos\\Sistema De Citas (Estudio Fotogr\u00E1fico)\\Aplicacion\\DTOs\\ReservaCitaDTO.cs",
-              "RelativeDocumentMoniker": "Aplicacion\\DTOs\\ReservaCitaDTO.cs",
-              "ToolTip": "C:\\Users\\ioana\\source\\repos\\Sistema De Citas (Estudio Fotogr\u00E1fico)\\Aplicacion\\DTOs\\ReservaCitaDTO.cs",
-              "RelativeToolTip": "Aplicacion\\DTOs\\ReservaCitaDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-08T22:02:00.063Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ConfiguracionDTO.cs",
-              "DocumentMoniker": "C:\\Users\\ioana\\source\\repos\\Sistema De Citas (Estudio Fotogr\u00E1fico)\\Aplicacion\\DTOs\\ConfiguracionDTO.cs",
-              "RelativeDocumentMoniker": "Aplicacion\\DTOs\\ConfiguracionDTO.cs",
-              "ToolTip": "C:\\Users\\ioana\\source\\repos\\Sistema De Citas (Estudio Fotogr\u00E1fico)\\Aplicacion\\DTOs\\ConfiguracionDTO.cs",
-              "RelativeToolTip": "Aplicacion\\DTOs\\ConfiguracionDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-08T22:01:43.974Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "ConfiguracionController.cs",
               "DocumentMoniker": "C:\\Users\\ioana\\source\\repos\\Sistema De Citas (Estudio Fotogr\u00E1fico)\\Presentacion\\Controllers\\ConfiguracionController.cs",
               "RelativeDocumentMoniker": "Presentacion\\Controllers\\ConfiguracionController.cs",
@@ -255,7 +278,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "CitaController.cs",
               "DocumentMoniker": "C:\\Users\\ioana\\source\\repos\\Sistema De Citas (Estudio Fotogr\u00E1fico)\\Presentacion\\Controllers\\CitaController.cs",
               "RelativeDocumentMoniker": "Presentacion\\Controllers\\CitaController.cs",
@@ -268,7 +291,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\ioana\\source\\repos\\Sistema De Citas (Estudio Fotogr\u00E1fico)\\Presentacion\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "Presentacion\\Controllers\\AuthController.cs",
@@ -281,7 +304,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "UsuarioRepository.cs",
               "DocumentMoniker": "C:\\Users\\ioana\\source\\repos\\Sistema De Citas (Estudio Fotogr\u00E1fico)\\Infraestructura\\Repositories\\UsuarioRepository.cs",
               "RelativeDocumentMoniker": "Infraestructura\\Repositories\\UsuarioRepository.cs",
@@ -294,7 +317,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "GenericRepository.cs",
               "DocumentMoniker": "C:\\Users\\ioana\\source\\repos\\Sistema De Citas (Estudio Fotogr\u00E1fico)\\Infraestructura\\Repositories\\GenericRepository.cs",
               "RelativeDocumentMoniker": "Infraestructura\\Repositories\\GenericRepository.cs",
@@ -307,7 +330,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "CitaRepository.cs",
               "DocumentMoniker": "C:\\Users\\ioana\\source\\repos\\Sistema De Citas (Estudio Fotogr\u00E1fico)\\Infraestructura\\Repositories\\CitaRepository.cs",
               "RelativeDocumentMoniker": "Infraestructura\\Repositories\\CitaRepository.cs",
@@ -320,7 +343,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "DbInitializer.cs",
               "DocumentMoniker": "C:\\Users\\ioana\\source\\repos\\Sistema De Citas (Estudio Fotogr\u00E1fico)\\Infraestructura\\Data\\DbInitializer.cs",
               "RelativeDocumentMoniker": "Infraestructura\\Data\\DbInitializer.cs",
@@ -333,7 +356,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "DbContext.cs",
               "DocumentMoniker": "C:\\Users\\ioana\\source\\repos\\Sistema De Citas (Estudio Fotogr\u00E1fico)\\Infraestructura\\Data\\DbContext.cs",
               "RelativeDocumentMoniker": "Infraestructura\\Data\\DbContext.cs",
@@ -346,7 +369,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\ioana\\source\\repos\\Sistema De Citas (Estudio Fotogr\u00E1fico)\\Aplicacion\\Interfaces\\IRepository.cs",
               "RelativeDocumentMoniker": "Aplicacion\\Interfaces\\IRepository.cs",
@@ -359,7 +382,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "IUsuarioRepository.cs",
               "DocumentMoniker": "C:\\Users\\ioana\\source\\repos\\Sistema De Citas (Estudio Fotogr\u00E1fico)\\Aplicacion\\Interfaces\\IUsuarioRepository.cs",
               "RelativeDocumentMoniker": "Aplicacion\\Interfaces\\IUsuarioRepository.cs",
@@ -372,20 +395,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ICitaRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ioana\\source\\repos\\Sistema De Citas (Estudio Fotogr\u00E1fico)\\Aplicacion\\Interfaces\\ICitaRepository.cs",
-              "RelativeDocumentMoniker": "Aplicacion\\Interfaces\\ICitaRepository.cs",
-              "ToolTip": "C:\\Users\\ioana\\source\\repos\\Sistema De Citas (Estudio Fotogr\u00E1fico)\\Aplicacion\\Interfaces\\ICitaRepository.cs",
-              "RelativeToolTip": "Aplicacion\\Interfaces\\ICitaRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-08T21:35:30.99Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "ILoggerService.cs",
               "DocumentMoniker": "C:\\Users\\ioana\\source\\repos\\Sistema De Citas (Estudio Fotogr\u00E1fico)\\Aplicacion\\Interfaces\\ILoggerService.cs",
               "RelativeDocumentMoniker": "Aplicacion\\Interfaces\\ILoggerService.cs",
@@ -398,7 +408,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "ICorreoService.cs",
               "DocumentMoniker": "C:\\Users\\ioana\\source\\repos\\Sistema De Citas (Estudio Fotogr\u00E1fico)\\Aplicacion\\Interfaces\\ICorreoService.cs",
               "RelativeDocumentMoniker": "Aplicacion\\Interfaces\\ICorreoService.cs",
@@ -411,72 +421,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "ICorreoFactory.cs",
-              "DocumentMoniker": "C:\\Users\\ioana\\source\\repos\\Sistema De Citas (Estudio Fotogr\u00E1fico)\\Aplicacion\\Interfaces\\ICorreoFactory.cs",
-              "RelativeDocumentMoniker": "Aplicacion\\Interfaces\\ICorreoFactory.cs",
-              "ToolTip": "C:\\Users\\ioana\\source\\repos\\Sistema De Citas (Estudio Fotogr\u00E1fico)\\Aplicacion\\Interfaces\\ICorreoFactory.cs",
-              "RelativeToolTip": "Aplicacion\\Interfaces\\ICorreoFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-08T21:33:35.257Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "IConfiguracionService.cs",
-              "DocumentMoniker": "C:\\Users\\ioana\\source\\repos\\Sistema De Citas (Estudio Fotogr\u00E1fico)\\Aplicacion\\Interfaces\\IConfiguracionService.cs",
-              "RelativeDocumentMoniker": "Aplicacion\\Interfaces\\IConfiguracionService.cs",
-              "ToolTip": "C:\\Users\\ioana\\source\\repos\\Sistema De Citas (Estudio Fotogr\u00E1fico)\\Aplicacion\\Interfaces\\IConfiguracionService.cs",
-              "RelativeToolTip": "Aplicacion\\Interfaces\\IConfiguracionService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-08T21:33:20.857Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 23,
-              "Title": "ICitaServices.cs",
-              "DocumentMoniker": "C:\\Users\\ioana\\source\\repos\\Sistema De Citas (Estudio Fotogr\u00E1fico)\\Aplicacion\\Interfaces\\ICitaServices.cs",
-              "RelativeDocumentMoniker": "Aplicacion\\Interfaces\\ICitaServices.cs",
-              "ToolTip": "C:\\Users\\ioana\\source\\repos\\Sistema De Citas (Estudio Fotogr\u00E1fico)\\Aplicacion\\Interfaces\\ICitaServices.cs",
-              "RelativeToolTip": "Aplicacion\\Interfaces\\ICitaServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-08T21:28:31.507Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "CorreoSMTP.cs",
-              "DocumentMoniker": "C:\\Users\\ioana\\source\\repos\\Sistema De Citas (Estudio Fotogr\u00E1fico)\\Aplicacion\\Strategies\\CorreoSMTP.cs",
-              "RelativeDocumentMoniker": "Aplicacion\\Strategies\\CorreoSMTP.cs",
-              "ToolTip": "C:\\Users\\ioana\\source\\repos\\Sistema De Citas (Estudio Fotogr\u00E1fico)\\Aplicacion\\Strategies\\CorreoSMTP.cs",
-              "RelativeToolTip": "Aplicacion\\Strategies\\CorreoSMTP.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-08T21:28:05.67Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "CorreoMock.cs",
-              "DocumentMoniker": "C:\\Users\\ioana\\source\\repos\\Sistema De Citas (Estudio Fotogr\u00E1fico)\\Aplicacion\\Strategies\\CorreoMock.cs",
-              "RelativeDocumentMoniker": "Aplicacion\\Strategies\\CorreoMock.cs",
-              "ToolTip": "C:\\Users\\ioana\\source\\repos\\Sistema De Citas (Estudio Fotogr\u00E1fico)\\Aplicacion\\Strategies\\CorreoMock.cs",
-              "RelativeToolTip": "Aplicacion\\Strategies\\CorreoMock.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-08T21:27:50.074Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
               "Title": "SlotGenerador.cs",
               "DocumentMoniker": "C:\\Users\\ioana\\source\\repos\\Sistema De Citas (Estudio Fotogr\u00E1fico)\\Aplicacion\\Services\\SlotGenerador.cs",
               "RelativeDocumentMoniker": "Aplicacion\\Services\\SlotGenerador.cs",
@@ -489,7 +434,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 24,
               "Title": "ConfiguracionServices.cs",
               "DocumentMoniker": "C:\\Users\\ioana\\source\\repos\\Sistema De Citas (Estudio Fotogr\u00E1fico)\\Aplicacion\\Services\\ConfiguracionServices.cs",
               "RelativeDocumentMoniker": "Aplicacion\\Services\\ConfiguracionServices.cs",
@@ -502,7 +447,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 25,
               "Title": "CitaService.cs",
               "DocumentMoniker": "C:\\Users\\ioana\\source\\repos\\Sistema De Citas (Estudio Fotogr\u00E1fico)\\Aplicacion\\Services\\CitaService.cs",
               "RelativeDocumentMoniker": "Aplicacion\\Services\\CitaService.cs",
@@ -515,7 +460,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 26,
               "Title": "LoggerSingleton.cs",
               "DocumentMoniker": "C:\\Users\\ioana\\source\\repos\\Sistema De Citas (Estudio Fotogr\u00E1fico)\\Aplicacion\\Logger\\LoggerSingleton.cs",
               "RelativeDocumentMoniker": "Aplicacion\\Logger\\LoggerSingleton.cs",
@@ -524,19 +469,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-08T21:26:19.177Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "CorreoFactory.cs",
-              "DocumentMoniker": "C:\\Users\\ioana\\source\\repos\\Sistema De Citas (Estudio Fotogr\u00E1fico)\\Aplicacion\\Factories\\CorreoFactory.cs",
-              "RelativeDocumentMoniker": "Aplicacion\\Factories\\CorreoFactory.cs",
-              "ToolTip": "C:\\Users\\ioana\\source\\repos\\Sistema De Citas (Estudio Fotogr\u00E1fico)\\Aplicacion\\Factories\\CorreoFactory.cs",
-              "RelativeToolTip": "Aplicacion\\Factories\\CorreoFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-08T21:25:56.859Z",
               "EditorCaption": ""
             }
           ]

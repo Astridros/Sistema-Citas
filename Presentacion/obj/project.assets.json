@@ -508,9 +508,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ioana\\source\\repos\\Sistema De Citas (Estudio Fotográfico)\\Presentacion\\Presentacion.csproj",
-      "projectName": "Presentacion",
-      "projectPath": "C:\\Users\\ioana\\source\\repos\\Sistema De Citas (Estudio Fotográfico)\\Presentacion\\Presentacion.csproj",
+      "projectUniqueName": "C:\\Users\\ioana\\source\\repos\\Sistema De Citas (Estudio Fotográfico)\\Presentacion\\Web.csproj",
+      "projectName": "Web",
+      "projectPath": "C:\\Users\\ioana\\source\\repos\\Sistema De Citas (Estudio Fotográfico)\\Presentacion\\Web.csproj",
       "packagesPath": "C:\\Users\\ioana\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\ioana\\source\\repos\\Sistema De Citas (Estudio Fotográfico)\\Presentacion\\obj\\",
       "projectStyle": "PackageReference",
